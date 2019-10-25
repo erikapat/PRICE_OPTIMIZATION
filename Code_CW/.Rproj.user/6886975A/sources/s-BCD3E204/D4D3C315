@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1531896597806.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "D4D3C315",
+    "lastKnownWriteTime" : 1531898667,
+    "last_content_update" : 1531898667884,
+    "path" : "~/Dropbox/PRUEBAS_DATA_SCIENCE/CoverWallet/CW_DS_challenge/challenge/Code_CW/3.-prepare_test_XGBOOST.R",
+    "project_path" : "3.-prepare_test_XGBOOST.R",
+    "properties" : {
+        "cursorPosition" : "122,12",
+        "scrollLine" : "0"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
